@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Revathykarthikayan
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Selenium with Python
+- 🌱 I’m currently looking  forward to work in Selenium with Python
 - 📫 How to reach me - revathykarthikayan@gmail.com
