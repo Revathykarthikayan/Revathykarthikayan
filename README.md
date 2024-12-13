@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **revathykarthikayan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pVZdVOR7gLRWrGnQHEFor-pp_vPPygyf/view?usp=drivesdk](https://drive.google.com/file/d/1pVZdVOR7gLRWrGnQHEFor-pp_vPPygyf/view?usp=drivesdk)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1MsYyavStEduOX62U0rKQQ0GAaxsFWj0iw-9mAQTyKzA/edit?tab=t.0#heading=h.x8fm1uorkbaw](https://docs.google.com/document/d/1MsYyavStEduOX62U0rKQQ0GAaxsFWj0iw-9mAQTyKzA/edit?tab=t.0#heading=h.x8fm1uorkbaw)
 
 - ⚡ Fun fact **Chess**
 
