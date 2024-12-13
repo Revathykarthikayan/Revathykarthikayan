@@ -5,8 +5,9 @@
 
 
 - 🔭 I’m currently working on [Orange HRM -2 Automation Project](https://github.com/Revathykarthikayan/OrangeHRM-validation-project.git)
-
-
+  
+-  👨‍💻 All of my projects are available at [https://revathykarthikayan.github.io/Revathy-Portfolio/](https://revathykarthikayan.github.io/Revathy-Portfolio/)
+   - 
 - 🌱 I’m currently learning **Automation Testing with Python Selenium**
 
 - 📝 I regularly write articles on [https://dev.to/revathykarthikayan](https://dev.to/revathykarthikayan)
@@ -14,6 +15,8 @@
 - 💬 Ask me about **Python, selenium, Pytest**
 
 - 📫 How to reach me **revathykarthikayan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pVZdVOR7gLRWrGnQHEFor-pp_vPPygyf/view?usp=drivesdk](https://drive.google.com/file/d/1pVZdVOR7gLRWrGnQHEFor-pp_vPPygyf/view?usp=drivesdk)
 
 - ⚡ Fun fact **Chess**
 
